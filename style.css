@@ -1,0 +1,26 @@
+DIV {
+border: 1px solid #000000;
+}
+
+#Header {
+	height: 100px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background: url (images/banner.png) no-repeat;
+	colour: red;
+}
+
+#MainContent {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#Footer {
+	width: 802 px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 50 px;
+}
+
