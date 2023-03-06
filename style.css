@@ -24,3 +24,16 @@ border: 1px solid #000000;
 	height: 50 px;
 }
 
+#FooterLeft {
+	float: left;
+	width: 399px; /*49.5%*/
+	height: 50 px;
+	border: 1px solid green;
+}
+
+#FooterRight {
+	float: right;
+	width: 399px; /*49.5%*/
+	height: 50 px;
+	border: 1px solid red;
+}
