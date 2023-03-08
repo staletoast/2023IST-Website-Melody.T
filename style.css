@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+BODY {
+	font-family: 'Nanum Gothic', sans-serif;
+
+
 DIV {
 border: 1px solid #000000;
 }
@@ -35,4 +41,5 @@ border: 1px solid #000000;
 	width: 399px; /*49.5%*/
 	height: 50px;
 	border: 1px solid red;
+}
 }
