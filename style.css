@@ -7,7 +7,7 @@ border: 1px solid #000000;
 	width: 800px;
 	margin-right: auto;
 	margin-left: auto;
-	background: url (images/banner.png) no-repeat;
+	background: url(images/banner.png) no-repeat;
 }
 
 #MainContent {
