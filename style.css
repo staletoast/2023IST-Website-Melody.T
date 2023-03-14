@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 
 BODY {
-	font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
 }
 
 DIV {
@@ -9,11 +9,11 @@ DIV {
 }
 
 #Header {
-	height: 100px;
-	width: 800px;
-	margin-right: auto;
-	margin-left: auto;
-	background: url(images/banner.png) no-repeat;
+height: 100px;
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+background: url(images/banner.png) no-repeat;
 }
 
 #MainContent {
@@ -31,14 +31,14 @@ DIV {
 
 #FooterLeft {
 	float:left;
-	width:399px; /*49.5%*/
+	width:0.5vw;
 	height:50px;
 	border: 1px solid green;
 }
 
 #FooterRight {
 	float:right;
-	width:399px; /*49.5%*/
+	width:0.5vw;
 	height:50px;
 	border: 1px solid red;
 }
